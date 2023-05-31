@@ -18,4 +18,10 @@ In this project, I have developed a machine learning model to predict the likeli
 **Model Evaluation**: The trained model was evaluated using appropriate evaluation metrics such as accuracy, precision, recall, or F1 score. The performance of the model was assessed to determine its effectiveness in predicting diabetes in individuals based on the given features.
 
 ## Results
+The results for the Feature Importance and the ROC curve are present below:
 
+### Feature Importance :
+![Result](FI.png)
+
+### ROC Curve:
+![Result](ROC.png)
